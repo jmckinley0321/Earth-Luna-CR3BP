@@ -1,5 +1,4 @@
 # Earth-Luna-CR3BP
-###### Jack McKinley
 
 ## Project Description
 Given an initial state vector (multiple are provided), this MATLAB code propagates orbits in the Circular Restricted Earth-Luna system by MATLAB's numeric ordinary differential equation solver, ODE45. The code also numerically solves all its Lagrange points via the Newton-Raphson method. 
